@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/superart/static/css/main.77636f6c.chunk.css",
+    "main.js": "/superart/static/js/main.14ca8841.chunk.js",
+    "main.js.map": "/superart/static/js/main.14ca8841.chunk.js.map",
+    "runtime-main.js": "/superart/static/js/runtime-main.f4c63f83.js",
+    "runtime-main.js.map": "/superart/static/js/runtime-main.f4c63f83.js.map",
+    "static/css/2.31461e4f.chunk.css": "/superart/static/css/2.31461e4f.chunk.css",
+    "static/js/2.d4d13f0f.chunk.js": "/superart/static/js/2.d4d13f0f.chunk.js",
+    "static/js/2.d4d13f0f.chunk.js.map": "/superart/static/js/2.d4d13f0f.chunk.js.map",
+    "static/js/3.5ff56ad5.chunk.js": "/superart/static/js/3.5ff56ad5.chunk.js",
+    "static/js/3.5ff56ad5.chunk.js.map": "/superart/static/js/3.5ff56ad5.chunk.js.map",
+    "index.html": "/superart/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/superart/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.77636f6c.chunk.css.map": "/superart/static/css/main.77636f6c.chunk.css.map",
+    "static/js/2.d4d13f0f.chunk.js.LICENSE.txt": "/superart/static/js/2.d4d13f0f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4c63f83.js",
+    "static/css/2.31461e4f.chunk.css",
+    "static/js/2.d4d13f0f.chunk.js",
+    "static/css/main.77636f6c.chunk.css",
+    "static/js/main.14ca8841.chunk.js"
+  ]
+}
